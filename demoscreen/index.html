@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>PodTask</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat|Raleway:400,700|Roboto:400,700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://kit.fontawesome.com/a062562745.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <div class="header">
+      <div class="logo">
+        <a href="/"><img src="https://www.stickpng.com/assets/images/580b57fbd9996e24bc43bfdb.png" width="90px"/></a>
+        <div class="company">
+            PodTasks
+        </div>
+      </div>
+      <div class="log-in">
+        <p>
+          <a href="/login/">Log In</a>
+          |
+          <a href="/register/">Sign Up</a>
+        </p>
+      </div>
+    </div>
+    <div class="navigation-bar">
+      <a href="/">HOME</a>
+      <a href="/log/">RECOMMENDED PLAYLISTS</a>
+      <a href="/calendar/">TEAM STATISTICS</a>
+      <a href="/login">AUDIO PLAYER</a>
+    </div>
+    <div class="content">
+      <div class="column left">
+        <h1>
+          You are listening to Programming with the Pros: Java. You have listened to 3 episodes so far.
+        </h1>
+        <h2>
+          This will go towards to your Java and Programming Skills badge.
+        </h2>
+      </div>
+      <div class="column right">
+       <div class="player-ctn">
+  <div class="infos-ctn">
+
+    <div class="timer">00:00</div>
+    <div class="title">Programming with the Pros: Java</div>
+    <div class="duration">31:08</div>
+  </div>
+  <div id="myProgress">
+    <div id="myBar"></div>
+  </div>
+  <div class="btn-ctn">
+     <div class="btn-action" onclick="toggleAudio()">
+        <div id="btn-faws-play-pause">
+          <i class='fas fa-play' id="icon-play"></i>
+          <i class='fas fa-pause' id="icon-pause" style="display: none"></i>
+        </div>
+     </div>
+  </div>
+  <div class="playlist-ctn"></div>
+</div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
