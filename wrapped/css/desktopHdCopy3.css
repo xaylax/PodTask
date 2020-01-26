@@ -1,0 +1,766 @@
+
+
+.desktophdcopy3 {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.desktophdcopy3 .undrawselectingteam8uux {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -285px;
+  height              : 243px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 276px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .typesomething {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 314px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 710px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(255, 250, 250, 0.87);
+  text-align          : center;
+  line-height         : 80.0px;
+}
+.desktophdcopy3 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : 94px;
+  width               : 94px;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 66px;
+  height              : 62px;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 79px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .screenshot20200125at53841pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -404px;
+  height              : 171px;
+  width               : 175px;
+  position            : absolute;
+  margin              : 0;
+  left                : 515px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .screenshot20200125at53741pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -632px;
+  height              : 163px;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 626px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .typesomething1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1017px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 516px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(255, 250, 250, 0.87);
+  text-align          : center;
+  line-height         : 80.0px;
+}
+.desktophdcopy3 .typesomething2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 440px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1115px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(255, 250, 250, 0.87);
+  text-align          : center;
+  line-height         : 80.0px;
+}
+.desktophdcopy3 .podtask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 58px;
+  height              : 78px;
+  width               : 318px;
+  position            : absolute;
+  margin              : 0;
+  left                : 133px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 80.0px;
+}
+.desktophdcopy3 .typesomething3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 481px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 712px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(255, 250, 250, 0.87);
+  text-align          : center;
+  line-height         : 63.0px;
+}
+.desktophdcopy3 .yourteamu2019slistenin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 174px;
+  height              : 62px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 764px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(255, 250, 250, 0.87);
+  text-align          : center;
+  line-height         : 63.0px;
+}
+.desktophdcopy3 .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 120px;
+  height              : 843px;
+  box-sizing          : border-box;
+  width               : 839px;
+  position            : absolute;
+  margin              : 0;
+  left                : 110px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -4px;
+  height              : 1033px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : -9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 187px;
+  height              : 104px;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1168px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap1 .bitmap15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 104px;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 435px;
+  height              : 155px;
+  width               : 326px;
+  position            : absolute;
+  margin              : 0;
+  left                : 557px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 174px;
+  height              : 648px;
+  width               : 867px;
+  position            : absolute;
+  margin              : 0;
+  left                : 43px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap3 .bitmap15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 648px;
+  width               : 867px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .youspentthepastt {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 616px;
+  height              : 280px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 98px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 40.0px;
+  color               : rgba(255, 250, 250, 0.87);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.desktophdcopy3 .youspentthepastt .span1 {
+  line-height         : 53.0px;
+}
+.desktophdcopy3 .youspentthepastt .span2 {
+  font-size           : 48.0px;
+  line-height         : 63.0px;
+}
+.desktophdcopy3 .fromjantomarch20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : 436px;
+  width               : 400px;
+  position            : absolute;
+  margin              : 0;
+  left                : 483px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 40.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.desktophdcopy3 .fromjantomarch20 .span1 {
+  color               : rgba(255, 250, 250, 0.87);
+  line-height         : 53.0px;
+}
+.desktophdcopy3 .fromjantomarch20 .span2 {
+  color               : rgba(198, 3, 3, 0.87);
+  line-height         : 53.0px;
+}
+.desktophdcopy3 .fromjantomarch20 .span3 {
+  color               : rgba(255, 250, 250, 0.87);
+  line-height         : 53.0px;
+}
+.desktophdcopy3 .fromjantomarch20 .span4 {
+  font-size           : 48.0px;
+  color               : rgba(255, 250, 250, 0.87);
+  line-height         : 63.0px;
+}
+.desktophdcopy3 .bitmap4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 214px;
+  height              : 376px;
+  width               : 376px;
+  position            : absolute;
+  margin              : 0;
+  left                : 75px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : 94px;
+  width               : 94px;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 66px;
+  height              : 62px;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 79px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .podtask1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 58px;
+  height              : 78px;
+  width               : 318px;
+  position            : absolute;
+  margin              : 0;
+  left                : 133px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 80.0px;
+}
+.desktophdcopy3 .ovalcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 865px;
+  height              : 98px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : 326px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 892px;
+  height              : 45px;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 350px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .ovalcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 865px;
+  height              : 98px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : 200px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 870px;
+  height              : 93px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : 200px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 865px;
+  height              : 98px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : 79px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .yourq1wrapped {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 45px;
+  height              : 94px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 636px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Bold", Helvetica, Arial, serif;
+  font-size           : 72.0px;
+  color               : rgba(255, 250, 250, 0.87);
+  text-align          : left;
+  line-height         : 96.0px;
+}
+.desktophdcopy3 .slacklogoicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 889px;
+  height              : 56px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 98px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1172px;
+  height              : 163px;
+  width               : 163px;
+  position            : absolute;
+  margin              : 0;
+  left                : 434px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .screenshot20200125at91525pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 185px;
+  height              : 283px;
+  width               : 283px;
+  position            : absolute;
+  margin              : 0;
+  left                : 878px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .screenshot20200125at91525pm .screenshot20200125at91525pm1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 283px;
+  width               : 283px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 493px;
+  height              : 366px;
+  width               : 484px;
+  position            : absolute;
+  margin              : 0;
+  left                : 838px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .hereu2019swhatyoulist {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 506px;
+  height              : 368px;
+  width               : 453px;
+  position            : absolute;
+  margin              : 0;
+  left                : 854px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(191, 18, 18, 0.87);
+  text-align          : left;
+  line-height         : 47.0px;
+}
+.desktophdcopy3 .hereu2019swhatyoulist .span1 {
+  
+}
+.desktophdcopy3 .hereu2019swhatyoulist .span2 {
+  color               : rgba(255, 250, 250, 0.87);
+}
+.desktophdcopy3 .bitmap9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 265px;
+  height              : 153px;
+  width               : 190px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1168px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap9 .bitmap15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 153px;
+  width               : 190px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 380px;
+  height              : 90px;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1168px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 187px;
+  height              : 90px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1265px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap11 .bitmap15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 90px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 378px;
+  height              : 90px;
+  width               : 91px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1267px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap12 .bitmap15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 90px;
+  width               : 91px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .screenshot20200125at84449pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 387px;
+  height              : 80px;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1213px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 309px;
+  height              : 78px;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1244px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 236px;
+  height              : 82px;
+  width               : 89px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1209px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy3 .bitmap14 .bitmap15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 82px;
+  width               : 89px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}

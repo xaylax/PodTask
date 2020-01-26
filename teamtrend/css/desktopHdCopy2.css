@@ -1,0 +1,506 @@
+
+
+.desktophdcopy2 {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.desktophdcopy2 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1024px;
+  width               : 1443px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 275px;
+  height              : 302px;
+  width               : 286px;
+  position            : absolute;
+  margin              : 0;
+  left                : 830px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .bitmap .bitmap6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 302px;
+  width               : 286px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 552px;
+  height              : 285px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 543px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .bitmap1 .bitmap6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 285px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .undrawselectingteam8uux {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -285px;
+  height              : 243px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 276px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .slacklogoicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 66px;
+  height              : 58px;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1327px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .typesomething {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 314px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 710px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(255, 250, 250, 0.87);
+  text-align          : center;
+  line-height         : 80.0px;
+}
+.desktophdcopy2 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : 94px;
+  width               : 94px;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .bitmap2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 66px;
+  height              : 62px;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 79px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .screenshot20200125at53841pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -404px;
+  height              : 171px;
+  width               : 175px;
+  position            : absolute;
+  margin              : 0;
+  left                : 515px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .screenshot20200125at53741pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -632px;
+  height              : 163px;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 626px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .typesomething1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1017px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 516px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(255, 250, 250, 0.87);
+  text-align          : center;
+  line-height         : 80.0px;
+}
+.desktophdcopy2 .typesomething2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 440px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1115px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(255, 250, 250, 0.87);
+  text-align          : center;
+  line-height         : 80.0px;
+}
+.desktophdcopy2 .buttonsprimary {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 76px;
+  height              : 52px;
+  width               : 187px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .buttonsprimary .buttonbackground {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 52px;
+  width               : 187px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .buttonsprimary .ok {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 19.0px;
+}
+.desktophdcopy2 .podtask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 58px;
+  height              : 78px;
+  width               : 318px;
+  position            : absolute;
+  margin              : 0;
+  left                : 133px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 80.0px;
+}
+.desktophdcopy2 .typesomething3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 481px;
+  height              : auto;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 809px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(255, 250, 250, 0.87);
+  text-align          : center;
+  line-height         : 63.0px;
+}
+.desktophdcopy2 .typesomething4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 481px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 712px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(255, 250, 250, 0.87);
+  text-align          : center;
+  line-height         : 63.0px;
+}
+.desktophdcopy2 .yourteamu2019slistenin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 174px;
+  height              : 62px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 764px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(255, 250, 250, 0.87);
+  text-align          : center;
+  line-height         : 63.0px;
+}
+.desktophdcopy2 .hotspot {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 560px;
+  height              : 259px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .namejohndoerole {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 287px;
+  height              : 585px;
+  width               : 426px;
+  position            : absolute;
+  margin              : 0;
+  left                : 101px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 250, 250, 0.87);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.desktophdcopy2 .bitmap3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 275px;
+  height              : 285px;
+  width               : 285px;
+  position            : absolute;
+  margin              : 0;
+  left                : 548px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .screenshot20200125at84449pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 552px;
+  height              : 286px;
+  width               : 292px;
+  position            : absolute;
+  margin              : 0;
+  left                : 827px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .bitmap4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 552px;
+  height              : 286px;
+  width               : 287px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1098px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .bitmap4 .bitmap6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 286px;
+  width               : 287px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .bitmap5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 275px;
+  height              : 277px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1075px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy2 .bitmap5 .bitmap6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 277px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
