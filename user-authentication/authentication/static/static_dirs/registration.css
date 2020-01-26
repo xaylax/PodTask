@@ -1,0 +1,852 @@
+
+
+.desktophdcopy6 {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.desktophdcopy6 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1024px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 333px;
+  width               : 444px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -17px;
+  height              : 333px;
+  width               : 444px;
+  position            : absolute;
+  margin              : 0;
+  left                : 968px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 327px;
+  width               : 383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 337px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap2 .bitmap18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 327px;
+  width               : 383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 674px;
+  height              : 350px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 362px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap3 .bitmap18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 348px;
+  width               : 348px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 316px;
+  height              : 218px;
+  width               : 361px;
+  position            : absolute;
+  margin              : 0;
+  left                : 155px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap4 .bitmap18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 218px;
+  width               : 361px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 324px;
+  height              : 350px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 316px;
+  height              : 352px;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 710px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 318px;
+  height              : 350px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1062px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap7 .bitmap18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 350px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 316px;
+  height              : 358px;
+  width               : 358px;
+  position            : absolute;
+  margin              : 0;
+  left                : 352px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 327px;
+  width               : 327px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 668px;
+  height              : 350px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1062px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 674px;
+  height              : 350px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap11 .bitmap18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 350px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 668px;
+  height              : 356px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 712px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 327px;
+  width               : 389px;
+  position            : absolute;
+  margin              : 0;
+  left                : 673px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap13 .bitmap18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 327px;
+  width               : 389px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .rectangle1 {
+  background-color    : rgba(255, 252, 252, 1.0);
+  top                 : 106px;
+  height              : 813px;
+  box-sizing          : border-box;
+  width               : 691px;
+  position            : absolute;
+  margin              : 0;
+  left                : 516px;
+  border-radius       : 1px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.96;
+}
+.desktophdcopy6 .checkboxunchecked {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 446px;
+  height              : 46px;
+  width               : 282px;
+  position            : absolute;
+  margin              : 0;
+  left                : 548px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .checkboxunchecked .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 282px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .checkboxunchecked .checkbackground {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 40px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .checkboxunchecked .checklabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 60px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.desktophdcopy6 .ifnotpleasefill {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 509px;
+  height              : 52px;
+  width               : 564px;
+  position            : absolute;
+  margin              : 0;
+  left                : 548px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 0.87);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.desktophdcopy6 .rectangle2 {
+  background-color    : rgba(27, 16, 16, 1.0);
+  top                 : 589px;
+  height              : 293px;
+  box-sizing          : border-box;
+  width               : 545px;
+  position            : absolute;
+  margin              : 0;
+  left                : 557px;
+  border-radius       : 12px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 623px;
+  height              : 38px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 766px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 623px;
+  height              : 40px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 712px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .inputtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 245px;
+  height              : 48px;
+  width               : 557px;
+  position            : absolute;
+  margin              : 0;
+  left                : 557px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .inputtext .inputbackground {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 557px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .inputtext .inputvalue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.desktophdcopy6 .inputtext1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 306px;
+  height              : 55px;
+  width               : 557px;
+  position            : absolute;
+  margin              : 0;
+  left                : 557px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .inputtext1 .inputbackground {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 55px;
+  width               : 557px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .inputtext1 .inputvalue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.desktophdcopy6 .inputtext2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 374px;
+  height              : 54px;
+  width               : 557px;
+  position            : absolute;
+  margin              : 0;
+  left                : 557px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .inputtext2 .inputbackground {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 54px;
+  width               : 557px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .inputtext2 .inputvalue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.desktophdcopy6 .register {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 183px;
+  height              : 39px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 557px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(61, 61, 61, 0.87);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.desktophdcopy6 .bitmap16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 616px;
+  height              : 47px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 586px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .inputtext3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 687px;
+  height              : 36px;
+  width               : 463px;
+  position            : absolute;
+  margin              : 0;
+  left                : 596px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .inputtext3 .inputbackground {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 463px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .inputtext3 .inputvalue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.desktophdcopy6 .inputtext4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 736px;
+  height              : 36px;
+  width               : 463px;
+  position            : absolute;
+  margin              : 0;
+  left                : 597px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .inputtext4 .inputbackground {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 463px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .inputtext4 .inputvalue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.desktophdcopy6 .inputtext5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 803px;
+  height              : 36px;
+  width               : 107px;
+  position            : absolute;
+  margin              : 0;
+  left                : 953px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .inputtext5 .inputbackground {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 107px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .inputtext5 .inputvalue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.desktophdcopy6 .inputtext6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 803px;
+  height              : 36px;
+  width               : 107px;
+  position            : absolute;
+  margin              : 0;
+  left                : 827px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .inputtext6 .inputbackground {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 107px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .inputtext6 .inputvalue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.desktophdcopy6 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 128px;
+  height              : 94px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 806px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .bitmap17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 143px;
+  height              : 64px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 817px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophdcopy6 .podtask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 134px;
+  height              : 94px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 908px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 72.0px;
+  color               : rgba(65, 59, 59, 1.0);
+  text-align          : center;
+  line-height         : 96.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
